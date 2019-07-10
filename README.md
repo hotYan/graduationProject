@@ -50,10 +50,10 @@
 8. 访问localhost://3000
 
 
-9. 单人游戏
+>单人游戏
 
-![img](https://github.com/hotYan/graduationProject/blob/master/public/images/one.jpg)
+![img](https://github.com/hotYan/graduationProject/blob/master/public/images/one.jpg){:height='200px' width="300px"}
 
-10. 实时对战游戏
+>实时对战游戏
 
-![img](https://github.com/hotYan/graduationProject/blob/master/public/images/two.jpg)
+![img](https://github.com/hotYan/graduationProject/blob/master/public/images/two.jpg){:height='200px' width="300px"}
