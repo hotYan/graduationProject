@@ -1,9 +1,6 @@
 
-<<<<<<< HEAD
-
-=======
 #### Express + EJS + MySQL 项目
->>>>>>> 0de90bc48217a3329c08bbbb064eb9ae6d33c458
+
 1. node运行环境
 
 2. clone后进入项目根目录
