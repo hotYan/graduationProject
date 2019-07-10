@@ -50,13 +50,13 @@
 8. 访问localhost://3000
 
 
->单人游戏
+#### 单人游戏
 
 <div align =center>
 <img src='https://github.com/hotYan/graduationProject/blob/master/public/images/one.jpg' alt='img' height='450px' width="450px" />
 </div>
 
->实时对战游戏
+#### 实时对战游戏
 
 <div align =center>
 <img src='https://github.com/hotYan/graduationProject/blob/master/public/images/two.jpg' alt='img' height='400px' width="500px" />
