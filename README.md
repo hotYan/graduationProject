@@ -1,3 +1,5 @@
+
+#### Express + EJS + MySQL 项目
 1. node运行环境
 
 2. 进入项目根目录
