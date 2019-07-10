@@ -52,9 +52,12 @@
 
 >单人游戏
 
-<img src='https://github.com/hotYan/graduationProject/blob/master/public/images/one.jpg' alt='img' height='300px' width="200px" />
-
+<div align =center>
+<img src='https://github.com/hotYan/graduationProject/blob/master/public/images/one.jpg' alt='img' height='500px' width="400px" />
+</div>
 
 >实时对战游戏
 
-<img src='https://github.com/hotYan/graduationProject/blob/master/public/images/two.jpg' alt='img' height='300px' width="200px" />
+<div align =center>
+<img src='https://github.com/hotYan/graduationProject/blob/master/public/images/two.jpg' alt='img' height='400px' width="300px" />
+</div>
